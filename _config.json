@@ -1,0 +1,9 @@
+{
+	"check_dir":"..\/..\/test",
+	"log_dir":"..\/..\/log",
+	"back_dir":"..\/..\/back",
+	"log_file_name":"123.txt",
+	"hash_file":".\/hash.txt",
+	"coroutines":"1|1|1",
+	"time_sec":"2"
+}
